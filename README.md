@@ -1,7 +1,7 @@
 # ESP32-RC-Orlandoo-MicroCrawler
 
 ## Micro Crawler
-- Orlandoo Hunter OH32A01
+- Orlandoo Hunter OH35A01
 - Motor Pololu 75:1 Micro Metal Gearmotor HP with Extended Motor Shaft
 - Pololu Optical Encoder Pair Kit for Micro Metal Gearmotors, 3.3V
 - Orlandoo Servo 2.2g
