@@ -11,7 +11,7 @@
 - Lilygo T7 Mini v1.3
 - Pololu BD65496MUV Single Brushed DC Motor Driver Carrier
 - Adafruit MPU6050
-- Adafruit TLC59711 12 Channel LED PWM driver
+- Adafruit TLC59711 12 Channel LED PWM driver https://www.adafruit.com/product/1455
 
 ### AI Autonomous Drive Module
 - Arduino Pro Nicla Vision
