@@ -20,10 +20,10 @@
 ### RC Controller with ESP32 Websocket Server
 - Arduino Project with async Websocket server, rotary encoder and motor driver
 - Used Libraries:
--- ESPmDNS - Espressif ESP32 Multicast DNS library
--- ESPAsyncWebServer - https://github.com/me-no-dev/ESPAsyncWebServer
--- ESP32Encoder - https://github.com/madhephaestus/ESP32Encoder
--- ESP32Servo - https://github.com/jkb-git/ESP32Servo
+    - ESPmDNS - Espressif ESP32 Multicast DNS library
+    - ESPAsyncWebServer - https://github.com/me-no-dev/ESPAsyncWebServer
+    - ESP32Encoder - https://github.com/madhephaestus/ESP32Encoder
+    - ESP32Servo - https://github.com/jkb-git/ESP32Servo
 
 ### AI with object and lane detection 
 - OpenMV Project with tensor lite ml model using edge-impulse
