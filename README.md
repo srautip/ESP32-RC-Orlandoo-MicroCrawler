@@ -3,8 +3,8 @@
 ## Hardware
 ### Micro Crawler 1:35
 - Orlandoo Hunter OH35A01
-- Motor Pololu 75:1 Micro Metal Gearmotor HP with Extended Motor Shaft
-- Pololu Optical Encoder Pair Kit for Micro Metal Gearmotors, 3.3V
+- Motor Pololu 75:1 Micro Metal Gearmotor HP with Extended Motor Shaft https://www.pololu.com/product/2215
+- Pololu Optical Encoder Pair Kit for Micro Metal Gearmotors, 3.3V https://www.pololu.com/product/2591
 - Orlandoo Servo 2.2g
 
 ### ESP32 Modules
