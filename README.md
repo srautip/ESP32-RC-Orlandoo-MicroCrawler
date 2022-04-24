@@ -15,3 +15,10 @@
 
 ### AI Autonomous Drive Module
 - Arduino Pro Nicla Vision
+
+## Software
+### RC Controller with ESP32 Websocket Server
+- Arduino Project with async Websocket server, rotary encoder and motor driver
+
+### AI with object and lane detection 
+- OpenMV Project with tensor lite ml model using edge-impulse
