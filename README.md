@@ -9,8 +9,8 @@
 
 ### ESP32 Modules
 - Lilygo T7 Mini v1.3
-- Pololu BD65496MUV Single Brushed DC Motor Driver Carrier
-- Adafruit MPU6050
+- Pololu BD65496MUV Single Brushed DC Motor Driver Carrier https://www.pololu.com/product/2960
+- Adafruit MPU-6050 https://www.adafruit.com/product/3886
 - Adafruit TLC59711 12 Channel LED PWM driver https://www.adafruit.com/product/1455
 
 ### AI Autonomous Drive Module
